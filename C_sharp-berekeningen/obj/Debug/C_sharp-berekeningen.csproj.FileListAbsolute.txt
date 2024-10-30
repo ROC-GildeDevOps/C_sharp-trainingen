@@ -1,0 +1,10 @@
+C:\.github_desktop\C_sharp-berekeningen\C_sharp-berekeningen\bin\Debug\C_sharp-berekeningen.exe.config
+C:\.github_desktop\C_sharp-berekeningen\C_sharp-berekeningen\bin\Debug\C_sharp-berekeningen.exe
+C:\.github_desktop\C_sharp-berekeningen\C_sharp-berekeningen\bin\Debug\C_sharp-berekeningen.pdb
+C:\.github_desktop\C_sharp-berekeningen\C_sharp-berekeningen\obj\Debug\C_sharp-berekeningen.csproj.AssemblyReference.cache
+C:\.github_desktop\C_sharp-berekeningen\C_sharp-berekeningen\obj\Debug\C_sharp_berekeningen.Form1.resources
+C:\.github_desktop\C_sharp-berekeningen\C_sharp-berekeningen\obj\Debug\C_sharp_berekeningen.Properties.Resources.resources
+C:\.github_desktop\C_sharp-berekeningen\C_sharp-berekeningen\obj\Debug\C_sharp-berekeningen.csproj.GenerateResource.cache
+C:\.github_desktop\C_sharp-berekeningen\C_sharp-berekeningen\obj\Debug\C_sharp-berekeningen.csproj.CoreCompileInputs.cache
+C:\.github_desktop\C_sharp-berekeningen\C_sharp-berekeningen\obj\Debug\C_sharp-berekeningen.exe
+C:\.github_desktop\C_sharp-berekeningen\C_sharp-berekeningen\obj\Debug\C_sharp-berekeningen.pdb

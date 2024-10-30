@@ -1,0 +1,10 @@
+C:\.github_desktop\C_sharp-factuur\C_sharp-factuur\bin\Debug\C_sharp-factuur.exe.config
+C:\.github_desktop\C_sharp-factuur\C_sharp-factuur\bin\Debug\C_sharp-factuur.exe
+C:\.github_desktop\C_sharp-factuur\C_sharp-factuur\bin\Debug\C_sharp-factuur.pdb
+C:\.github_desktop\C_sharp-factuur\C_sharp-factuur\obj\Debug\C_sharp-factuur.csproj.AssemblyReference.cache
+C:\.github_desktop\C_sharp-factuur\C_sharp-factuur\obj\Debug\C_sharp_factuur.Form1.resources
+C:\.github_desktop\C_sharp-factuur\C_sharp-factuur\obj\Debug\C_sharp_factuur.Properties.Resources.resources
+C:\.github_desktop\C_sharp-factuur\C_sharp-factuur\obj\Debug\C_sharp-factuur.csproj.GenerateResource.cache
+C:\.github_desktop\C_sharp-factuur\C_sharp-factuur\obj\Debug\C_sharp-factuur.csproj.CoreCompileInputs.cache
+C:\.github_desktop\C_sharp-factuur\C_sharp-factuur\obj\Debug\C_sharp-factuur.exe
+C:\.github_desktop\C_sharp-factuur\C_sharp-factuur\obj\Debug\C_sharp-factuur.pdb

@@ -1,0 +1,10 @@
+C:\.github_desktop\C_sharp-rente\C_sharp-rente\bin\Debug\C_sharp-rente.exe.config
+C:\.github_desktop\C_sharp-rente\C_sharp-rente\bin\Debug\C_sharp-rente.exe
+C:\.github_desktop\C_sharp-rente\C_sharp-rente\bin\Debug\C_sharp-rente.pdb
+C:\.github_desktop\C_sharp-rente\C_sharp-rente\obj\Debug\C_sharp-rente.csproj.AssemblyReference.cache
+C:\.github_desktop\C_sharp-rente\C_sharp-rente\obj\Debug\C_sharp_rente.Form1.resources
+C:\.github_desktop\C_sharp-rente\C_sharp-rente\obj\Debug\C_sharp_rente.Properties.Resources.resources
+C:\.github_desktop\C_sharp-rente\C_sharp-rente\obj\Debug\C_sharp-rente.csproj.GenerateResource.cache
+C:\.github_desktop\C_sharp-rente\C_sharp-rente\obj\Debug\C_sharp-rente.csproj.CoreCompileInputs.cache
+C:\.github_desktop\C_sharp-rente\C_sharp-rente\obj\Debug\C_sharp-rente.exe
+C:\.github_desktop\C_sharp-rente\C_sharp-rente\obj\Debug\C_sharp-rente.pdb

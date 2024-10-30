@@ -1,0 +1,10 @@
+C:\.github_desktop\C_sharp-berekenen\C_sharp-berekenen\bin\Debug\C_sharp-berekenen.exe.config
+C:\.github_desktop\C_sharp-berekenen\C_sharp-berekenen\bin\Debug\C_sharp-berekenen.exe
+C:\.github_desktop\C_sharp-berekenen\C_sharp-berekenen\bin\Debug\C_sharp-berekenen.pdb
+C:\.github_desktop\C_sharp-berekenen\C_sharp-berekenen\obj\Debug\C_sharp-berekenen.csproj.AssemblyReference.cache
+C:\.github_desktop\C_sharp-berekenen\C_sharp-berekenen\obj\Debug\C_sharp_berekenen.Form1.resources
+C:\.github_desktop\C_sharp-berekenen\C_sharp-berekenen\obj\Debug\C_sharp_berekenen.Properties.Resources.resources
+C:\.github_desktop\C_sharp-berekenen\C_sharp-berekenen\obj\Debug\C_sharp-berekenen.csproj.GenerateResource.cache
+C:\.github_desktop\C_sharp-berekenen\C_sharp-berekenen\obj\Debug\C_sharp-berekenen.csproj.CoreCompileInputs.cache
+C:\.github_desktop\C_sharp-berekenen\C_sharp-berekenen\obj\Debug\C_sharp-berekenen.exe
+C:\.github_desktop\C_sharp-berekenen\C_sharp-berekenen\obj\Debug\C_sharp-berekenen.pdb

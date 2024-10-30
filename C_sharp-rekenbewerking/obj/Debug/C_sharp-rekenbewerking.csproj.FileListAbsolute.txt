@@ -1,0 +1,10 @@
+C:\.github_desktop\C_sharp-rekenbewerking\C_sharp-rekenbewerking\bin\Debug\C_sharp-rekenbewerking.exe.config
+C:\.github_desktop\C_sharp-rekenbewerking\C_sharp-rekenbewerking\bin\Debug\C_sharp-rekenbewerking.exe
+C:\.github_desktop\C_sharp-rekenbewerking\C_sharp-rekenbewerking\bin\Debug\C_sharp-rekenbewerking.pdb
+C:\.github_desktop\C_sharp-rekenbewerking\C_sharp-rekenbewerking\obj\Debug\C_sharp-rekenbewerking.csproj.AssemblyReference.cache
+C:\.github_desktop\C_sharp-rekenbewerking\C_sharp-rekenbewerking\obj\Debug\C_sharp_rekenbewerking.Form1.resources
+C:\.github_desktop\C_sharp-rekenbewerking\C_sharp-rekenbewerking\obj\Debug\C_sharp_rekenbewerking.Properties.Resources.resources
+C:\.github_desktop\C_sharp-rekenbewerking\C_sharp-rekenbewerking\obj\Debug\C_sharp-rekenbewerking.csproj.GenerateResource.cache
+C:\.github_desktop\C_sharp-rekenbewerking\C_sharp-rekenbewerking\obj\Debug\C_sharp-rekenbewerking.csproj.CoreCompileInputs.cache
+C:\.github_desktop\C_sharp-rekenbewerking\C_sharp-rekenbewerking\obj\Debug\C_sharp-rekenbewerking.exe
+C:\.github_desktop\C_sharp-rekenbewerking\C_sharp-rekenbewerking\obj\Debug\C_sharp-rekenbewerking.pdb
